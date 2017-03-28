@@ -1,0 +1,11 @@
+{
+    "name": "mizgipb/sendmail",
+    "description": "Send mail (using PHPMailer & CKeditor)",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "~5.2",
+        "ckeditor/ckeditor": "4.6.2",
+        "twitter/bootstrap": "v3.3.7",
+        "components/jquery": "3.2.1"
+    }
+}
