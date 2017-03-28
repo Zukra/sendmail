@@ -11,3 +11,7 @@ Subject - тема сообщения
 Attachments - выбор вложенных файлов
 
 Gmail блокирует некоторые типы файлов при пересылке(подробнее тут https://support.google.com/mail/answer/6590?p=BlockedMessage&visit_id=0-636263109271422529-1758983511&rd=1)
+
+#### Install
+
+Скачать архив, из папки запустить composer install
